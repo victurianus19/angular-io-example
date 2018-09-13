@@ -1,4 +1,5 @@
-# ReduxExample
+# App of example about input and output before to add Redux, The behaviour has to be the same
+You can see in this link [InputOutpuExample](https://dist-gnqucchzac.now.sh/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
